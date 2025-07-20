@@ -8,7 +8,6 @@
 ### 🚀 About Me
 
 - 🔭 **Currently working on:** GenAI-based applications, full-stack MERN projects, and machine learning systems.
-- 🌱 **Learning:** Deep Learning, MLOps, and advanced React ecosystem.
 - 👯 **Looking to collaborate on:** Open-source projects in data science, ML, or MERN stack apps.
 - 🤝 **Always up for:** Learning new tools, collaborating on hackathons, or brainstorming ideas!
 - 💬 **Ask me about:** Anything related to AI/ML, React, Node.js, MongoDB, or deploying full-stack apps.
