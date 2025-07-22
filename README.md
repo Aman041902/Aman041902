@@ -34,7 +34,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aman041902&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-![Profile Views](https://visitcount.itsvg.in/api?id=Aman041902&label=Profile%20Views&color=6&icon=6)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
