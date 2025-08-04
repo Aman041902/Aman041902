@@ -17,9 +17,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-jain-667483259) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amanjain2k20@gmail.com) 
-## 👁️ Profile Views
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=Aman041902)
 
 
 # 💻 Tech Stack:
