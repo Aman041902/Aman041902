@@ -4,6 +4,8 @@
 🔍 I’m passionate about building intelligent systems and seamless web experiences that solve real-world problems.
 
 ---
+### 👀 Profile Views
+![Profile views](https://komarev.com/ghpvc/?username=Aman041902&color=blueviolet)
 
 ### 🚀 About Me
 
@@ -13,8 +15,7 @@
 - 💬 **Ask me about:** Anything related to AI/ML, React, Node.js, MongoDB, or deploying full-stack apps.
 - ⚡ **Fun fact:** I love debugging weird bugs at 2 AM more than I should 😅
 
-  ### 👀 Profile Views
-![Profile views](https://komarev.com/ghpvc/?username=Aman041902&color=blueviolet)
+
 
 
 
