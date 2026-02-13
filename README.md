@@ -7,6 +7,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-jain-667483259)
   [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanjain2k20@gmail.com)
   [![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/aman0419/)
+  [![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-Models-FFD21E?style=for-the-badge)](https://huggingface.co/aman0419)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Aman041902&color=3B82F6&style=for-the-badge)
 
@@ -31,17 +32,10 @@ class AmanJain:
             "ai_ml": ["PyTorch", "TensorFlow", "Keras", "Scikit-learn"],
             "data_science": ["Pandas", "NumPy", "Matplotlib", "Data Analysis"],
             "languages": ["Python", "C++", "JavaScript"],
-            "web_dev": ["React", "Node.js", "Express", "MongoDB"],  # Supporting skill
+            "web_dev": ["React", "Node.js", "Express", "MongoDB"], 
             "tools": ["Git", "Anaconda", "Jupyter", "Firebase"]
         }
     
-    def current_projects(self):
-        return [
-            "🏥 Medical Chatbot - RAG-based healthcare assistant",
-            "🎵 Music Genre Classification - Deep learning audio analysis",
-            "📚 ScholarLens - AI-powered research assistant",
-            "💊 Insurance Claims Checker - AI claims validation system"
-        ]
 ```
 
 ---
@@ -50,6 +44,7 @@ class AmanJain:
 
 - 🔬 **Building GenAI applications** using LLMs and RAG architectures
 - 🧠 **Deep Learning research** in Computer Vision and NLP
+- 🤗 **Training & deploying models** on Hugging Face (VitalLM series)
 - 📊 **MLOps & deployment** of production-grade ML systems
 - 🤝 **Open-source contributions** in AI/ML domain
 - 📈 **Kaggle competitions** and real-world data challenges
@@ -74,13 +69,6 @@ class AmanJain:
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### **Full-Stack Development** (Supporting Skills)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -89,67 +77,13 @@ class AmanJain:
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏥 [Medical Chatbot](https://github.com/Aman041902/Medical-Chatbot)
-> RAG-based healthcare assistant powered by LLMs
-- **Tech:** Python, LangChain, Vector DB, LLM APIs
-- Retrieval-Augmented Generation for medical Q&A
-- Context-aware responses with source citations
-- ⭐ 1 star
-
-### 🎵 [Music Genre Classification](https://github.com/Aman041902/music_genre_classification)
-> Deep learning model for audio classification
-- **Tech:** Python, TensorFlow, Librosa, CNN
-- Multi-class classification with 85%+ accuracy
-- Audio feature extraction and preprocessing
-- ⭐ 1 star
-
-### 📚 [ScholarLens](https://github.com/Aman041902/ScholarLens)
-> AI-powered research paper analysis tool
-- **Tech:** Python, NLP, Web Scraping
-- Automated paper summarization
-- Citation network analysis
-- ⭐ 1 star
-
-### 🏛️ [Insurance Claims Checker](https://github.com/Aman041902/Insurance-Claims-Checker)
-> AI-powered claims validation system
-- **Tech:** Python, ML Models, Web Interface
-- Automated fraud detection
-- Policy compliance checking
-- ⭐ 1 star
-
-### 🤖 [AI Assistant](https://github.com/Aman041902/AI-Assistant)
-> Intelligent conversational AI agent
-- **Tech:** JavaScript, Node.js, LLM APIs
-- Multi-turn conversations
-- Context management
-- ⭐ 1 star
-
----
 
 ## 📊 GitHub Analytics
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Aman041902&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman041902&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-  
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman041902&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![](https://github-profile-trophy.vercel.app/?username=Aman041902&theme=radical&no-frame=false&no-bg=true&margin-w=4)
   
 </div>
 
@@ -182,6 +116,7 @@ class AmanJain:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-jain-667483259)
 [![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanjain2k20@gmail.com)
+[![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-View_Models-FFD21E?style=for-the-badge)](https://huggingface.co/aman0419)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve_Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/aman0419/)
 
 </div>
