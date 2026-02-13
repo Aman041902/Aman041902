@@ -1,4 +1,4 @@
-# 🤖 Aman Jain | AI/ML Engineer & Data Scientist
+# 🤖 Aman Jain | Aspiring AI/ML Engineer & Data Scientist
 
 <div align="center">
   
@@ -17,15 +17,16 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Data Science & AI/ML Engineer** passionate about transforming data into actionable insights and building intelligent systems that solve real-world problems. Currently focused on **Generative AI**, **Deep Learning**, and **MLOps**.
+I'm a final-year engineering student passionate about transforming data into actionable insights and building intelligent systems from scratch. As I transition into a full-time role, my core focus is on researching and developing **Generative AI**, **Deep Learning**, and highly optimized custom models that solve real-world problems.
 
 ```python
 class AmanJain:
     def __init__(self):
         self.username = "Aman041902"
         self.location = "India 🇮🇳"
-        self.current_focus = ["GenAI", "Deep Learning", "Computer Vision", "NLP"]
-        self.education = "Data Science & AI/ML"
+        self.status = "Final-Year Engineering Student (Graduating 2026)"
+        self.current_focus = ["GenAI", "Deep Learning", "Small Language Models (SLMs)"]
+        
         
     def get_skills(self):
         return {
@@ -42,10 +43,9 @@ class AmanJain:
 
 ## 🎯 Current Focus
 
-- 🔬 **Building GenAI applications** using LLMs and RAG architectures
+- 🔬 **Building GenAI applications** using custom architectures, LLMs, and RAG pipelines.
 - 🧠 **Deep Learning research** in Computer Vision and NLP
 - 🤗 **Training & deploying models** on Hugging Face (VitalLM series)
-- 📊 **MLOps & deployment** of production-grade ML systems
 - 🤝 **Open-source contributions** in AI/ML domain
 - 📈 **Kaggle competitions** and real-world data challenges
 
@@ -93,7 +93,7 @@ class AmanJain:
 
 - 🧪 **Advanced Deep Learning** - Transformers, GANs, Diffusion Models
 - 🔗 **LangChain & LlamaIndex** - Building production GenAI apps
-- ☁️ **MLOps** - Model deployment, monitoring, and CI/CD
+- ⚙️ **Model Optimization** - Parameter-efficient fine-tuning and training frameworks for resource-constrained setups.
 - 📱 **Computer Vision** - Object detection, segmentation, facial recognition
 - 🗣️ **NLP** - Sentiment analysis, text generation, named entity recognition
 
