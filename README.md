@@ -1,19 +1,28 @@
 # 🤖 Aman Jain | Aspiring AI/ML Engineer & Data Scientist
 
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Data+Science+Enthusiast;Deep+Learning+Practitioner;Building+Intelligent+Systems)
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-jain-667483259)
-  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanjain2k20@gmail.com)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/aman0419/)
-  [![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-Models-FFD21E?style=for-the-badge)](https://huggingface.co/aman0419)
-  [![Resume](https://img.shields.io/badge/Resume-View_PDF-10B981?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1EWNaoihz8hCjdX3P5LM20x0Y44Y3j7X9/view?usp=sharing)
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Aman041902&color=3B82F6&style=for-the-badge)
+
+  
+
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Data+Science+Enthusiast;Deep+Learning+Practitioner;Building+Intelligent+Systems)
+
+  
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-jain-667483259)
+
+  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanjain2k20@gmail.com)
+
+  [![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/aman0419/)
+
+  [![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-Models-FFD21E?style=for-the-badge)](https://huggingface.co/aman0419)
+
+  
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=Aman041902&color=3B82F6&style=for-the-badge)
+
+
 
 </div>
-
 ---
 
 ## 👨‍💻 About Me
