@@ -105,29 +105,6 @@ class AmanJain:
 
 ---
 
-## 📫 Get in Touch
-
-<div align="center">
-
-**Let's build something amazing together!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-jain-667483259)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanjain2k20@gmail.com)
-[![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-View_Models-FFD21E?style=for-the-badge)](https://huggingface.co/aman0419)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve_Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/aman0419/)
-
-</div>
-
----
-
-<div align="center">
-  
-  ### ⚡ Fun Fact
-  *"I debug at 2 AM not because I have to, but because that's when the best solutions appear! 🌙💻"*
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-  ---
   
   **💙 Thanks for visiting! Happy coding!**
 
