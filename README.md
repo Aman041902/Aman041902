@@ -1,4 +1,4 @@
-# 🤖 Aman Jain | Aspiring AI/ML Engineer & Data Scientist
+# 🤖 Aman Jain | Data Scientist
 
 <div align="center">
 
@@ -14,25 +14,35 @@
 
 ## 👨‍💻 About Me
 
-I'm a final-year engineering student passionate about transforming data into actionable insights and building intelligent systems from scratch. As I transition into a full-time role, my core focus is on researching and developing **Generative AI**, **Deep Learning**, and highly optimized custom models that solve real-world problems.
+I'm a Data Scientist passionate about transforming data into actionable insights and building intelligent, data-driven solutions. My work and interests span **Data Science**, **Machine Learning**, **Deep Learning**, and **Generative AI**, with a focus on developing efficient models and solving real-world problems.
 
 ```python
 class AmanJain:
-    def __init__(self):
-        self.username = "Aman041902"
-        self.location = "India 🇮🇳"
-        self.status = "Final-Year Engineering Student (Graduating 2026)"
-        self.current_focus = ["GenAI", "Deep Learning", "Small Language Models (SLMs)"]
-        
-        
-    def get_skills(self):
-        return {
-            "ai_ml": ["PyTorch", "TensorFlow", "Keras", "Scikit-learn"],
-            "data_science": ["Pandas", "NumPy", "Matplotlib", "Data Analysis"],
-            "languages": ["Python", "C++", "JavaScript"],
-            "web_dev": ["React", "Node.js", "Express", "MongoDB"], 
-            "tools": ["Git", "Anaconda", "Jupyter", "Firebase"]
-        }
+def __init__(self):
+    self.username = "Aman041902"
+    self.location = "India 🇮🇳"
+    self.status = "Data Scientist"
+    self.current_focus = [
+        "Generative AI (GenAI)",
+        "Deep Learning",
+        "Small Language Models (SLMs)",
+        "Data Science & Machine Learning"
+    ]
+
+def get_skills(self):
+    return {
+        "ai_ml": [
+            "PyTorch", "TensorFlow", "Keras", "Scikit-learn"
+        ],
+        "data_science": [
+            "Pandas", "NumPy", "Matplotlib", "Data Analysis",
+            "Exploratory Data Analysis (EDA)", "Statistical Analysis"
+        ],
+        "languages": ["Python", "C++", "JavaScript"],
+        "web_dev": ["React", "Node.js", "Express", "MongoDB"],
+        "tools": ["Git", "Anaconda", "Jupyter", "Firebase"]
+    }
+
     
 ```
 
@@ -85,26 +95,6 @@ class AmanJain:
 </div>
 
 ---
-
-## 💡 What I'm Learning
-
-- 🧪 **Advanced Deep Learning** - Transformers, GANs, Diffusion Models
-- 🔗 **LangChain & LlamaIndex** - Building production GenAI apps
-- ⚙️ **Model Optimization** - Parameter-efficient fine-tuning and training frameworks for resource-constrained setups.
-- 📱 **Computer Vision** - Object detection, segmentation, facial recognition
-- 🗣️ **NLP** - Sentiment analysis, text generation, named entity recognition
-
----
-
-## 🤝 Open to Collaborate On
-
-- 🔬 **AI/ML Research Projects** - Innovative solutions in CV, NLP, or GenAI
-- 🌐 **Open Source ML Libraries** - Tools that benefit the community
-- 🏆 **Hackathons & Competitions** - Kaggle, MLH, or domain-specific challenges
-- 📊 **Real-world Data Science Projects** - Industry applications of ML
-
----
-
   
   **💙 Thanks for visiting! Happy coding!**
 
