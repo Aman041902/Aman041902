@@ -48,15 +48,7 @@ def get_skills(self):
 
 ---
 
-## 🎯 Current Focus
 
-- 🔬 **Building GenAI applications** using custom architectures, LLMs, and RAG pipelines.
-- 🧠 **Deep Learning research** in Computer Vision and NLP
-- 🤗 **Training & deploying models** on Hugging Face (VitalLM series)
-- 🤝 **Open-source contributions** in AI/ML domain
-- 📈 **Kaggle competitions** and real-world data challenges
-
----
 
 ## 🛠️ Tech Stack
 
